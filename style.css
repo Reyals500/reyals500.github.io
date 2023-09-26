@@ -33,7 +33,7 @@ h1 {
 }
 
 @keyframes textclip {
-  to{
+  to {
     background-position: 200% center;
   }
 }
